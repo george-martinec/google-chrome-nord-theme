@@ -1,2 +1,1 @@
-# google-chrome-nordic-theme
-Google Chrome Nordic Theme
+# Google Chrome Nordic Theme
