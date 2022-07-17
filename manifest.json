@@ -1,0 +1,40 @@
+{
+    "manifest_version": 2,
+    "name": "Google Chrome Nordic Theme",
+    "description": "Google Chrome Nordic Theme",
+    "version": "1.0",
+    "author": "George Martinec (https://github.com/george-martinec)",
+    "theme": {
+        "colors": {
+            "frame": [36, 41, 51],
+            "frame_inactive": [41, 46, 56],
+            "frame_incognito": [36, 41, 51],
+            "frame_incognito_inactive": [41, 46, 56],
+
+            "background_tab": [36, 41, 51],
+            "background_tab_inactive": [41, 46, 56],
+            "background_tab_incognito": [36, 41, 51],
+            "background_tab_incognito_inactive": [41, 46, 56],
+
+            "bookmark_text": [255, 255, 255],
+
+            "tab_background_text": [255, 255, 255],
+            "tab_background_text_inactive": [255, 255, 255],
+            "tab_background_text_incognito": [255, 255, 255],
+            "tab_background_text_incognito_inactive": [255, 255, 255],
+            "tab_text": [255, 255, 255],
+
+            "toolbar": [59, 66, 82],
+            "toolbar_button": [255, 255, 255],
+            "toolbar_button_icon": [255, 255, 255],
+
+            "omnibox_text": [255, 255, 255],
+            "omnibox_background": [36, 41, 51],
+
+            "ntp_background": [36, 41, 51],
+            "ntp_header": [255, 255, 255],
+            "ntp_link": [255, 255, 255],
+            "ntp_text": [255, 255, 255]
+        }
+    }
+}
