@@ -6,8 +6,6 @@
     "author": "George Martinec (https://github.com/george-martinec)",
     "theme": {
         "colors": {
-            "button_background" : [216, 222, 233],
-
             "bookmark_text": [216, 222, 233],
 
             "frame": [49, 55, 68],
@@ -31,25 +29,21 @@
             "toolbar_button_icon": [216, 222, 233],
             "toolbar_text": [216, 222, 233],
 
-            "omnibox_text": [216, 222, 233],
-            "omnibox_background": [49, 55, 68],
-
             "ntp_background": [49, 55, 68],
             "ntp_header": [216, 222, 233],
-            "ntp_link": [216, 222, 233],
             "ntp_text": [216, 222, 233],
             "ntp_section": [216, 222, 233],
             "ntp_attribution": [216, 222, 233]
         },
         "tints" : {
-            "background_tab": [0.5, 0.5, 0.5],
+            "background_tab": [0.61, 0.28, 0.88],
 
-            "buttons" : [0.5, 0.5, 0.5],
+            "buttons": [0.61, 0.28, 0.88],
 
-            "frame": [0.5, 0.5, 0.5],
-            "frame_inactive": [0.5, 0.5, 0.5],
-            "frame_incognito": [0.5, 0.5, 0.5],
-            "frame_incognito_inactive": [0.5, 0.5, 0.5]
+            "frame": [0.61, 0.28, 0.88],
+            "frame_inactive": [0.61, 0.28, 0.88],
+            "frame_incognito": [0.61, 0.28, 0.88],
+            "frame_incognito_inactive": [0.61, 0.28, 0.88]
         },
         "properties" : {
             "ntp_logo_alternate" : 1
