@@ -1,40 +1,58 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Google Chrome Nord Theme",
     "description": "Google Chrome Nord Theme",
-    "version": "1.0",
+    "version": "2.0",
     "author": "George Martinec (https://github.com/george-martinec)",
     "theme": {
         "colors": {
-            "frame": [36, 41, 51],
-            "frame_inactive": [41, 46, 56],
-            "frame_incognito": [36, 41, 51],
-            "frame_incognito_inactive": [41, 46, 56],
+            "button_background" : [216, 222, 233],
 
-            "background_tab": [36, 41, 51],
-            "background_tab_inactive": [41, 46, 56],
-            "background_tab_incognito": [36, 41, 51],
-            "background_tab_incognito_inactive": [41, 46, 56],
+            "bookmark_text": [216, 222, 233],
 
-            "bookmark_text": [255, 255, 255],
+            "frame": [49, 55, 68],
+            "frame_inactive": [34, 39, 48],
+            "frame_incognito": [49, 55, 68],
+            "frame_incognito_inactive": [34, 39, 48],
 
-            "tab_background_text": [255, 255, 255],
-            "tab_background_text_inactive": [255, 255, 255],
-            "tab_background_text_incognito": [255, 255, 255],
-            "tab_background_text_incognito_inactive": [255, 255, 255],
-            "tab_text": [255, 255, 255],
+            "background_tab": [49, 55, 68],
+            "background_tab_inactive": [34, 39, 48],
+            "background_tab_incognito": [49, 55, 68],
+            "background_tab_incognito_inactive": [34, 39, 48],
 
-            "toolbar": [59, 66, 82],
-            "toolbar_button": [255, 255, 255],
-            "toolbar_button_icon": [255, 255, 255],
+            "tab_background_text": [216, 222, 233],
+            "tab_background_text_inactive": [216, 222, 233],
+            "tab_background_text_incognito": [216, 222, 233],
+            "tab_background_text_incognito_inactive": [216, 222, 233],
+            "tab_text": [216, 222, 233],
 
-            "omnibox_text": [255, 255, 255],
-            "omnibox_background": [36, 41, 51],
+            "toolbar": [69, 78, 95],
+            "toolbar_button": [216, 222, 233],
+            "toolbar_button_icon": [216, 222, 233],
+            "toolbar_text": [216, 222, 233],
 
-            "ntp_background": [36, 41, 51],
-            "ntp_header": [255, 255, 255],
-            "ntp_link": [255, 255, 255],
-            "ntp_text": [255, 255, 255]
+            "omnibox_text": [216, 222, 233],
+            "omnibox_background": [49, 55, 68],
+
+            "ntp_background": [49, 55, 68],
+            "ntp_header": [216, 222, 233],
+            "ntp_link": [216, 222, 233],
+            "ntp_text": [216, 222, 233],
+            "ntp_section": [216, 222, 233],
+            "ntp_attribution": [216, 222, 233]
+        },
+        "tints" : {
+            "background_tab": [0.5, 0.5, 0.5],
+
+            "buttons" : [0.5, 0.5, 0.5],
+
+            "frame": [0.5, 0.5, 0.5],
+            "frame_inactive": [0.5, 0.5, 0.5],
+            "frame_incognito": [0.5, 0.5, 0.5],
+            "frame_incognito_inactive": [0.5, 0.5, 0.5]
+        },
+        "properties" : {
+            "ntp_logo_alternate" : 1
         }
     }
 }
