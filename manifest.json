@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Google Chrome Nord Theme",
     "description": "Google Chrome Nord Theme",
-    "version": "2.0",
+    "version": "1.0",
     "author": "George Martinec (https://github.com/george-martinec)",
     "theme": {
         "colors": {
